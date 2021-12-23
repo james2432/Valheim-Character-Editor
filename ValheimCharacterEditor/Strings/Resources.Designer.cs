@@ -61,6 +61,15 @@ namespace ValheimCharacterEditor.Strings {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Acorn.
+        /// </summary>
+        internal static string Acorn {
+            get {
+                return ResourceManager.GetString("Acorn", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Amber.
         /// </summary>
         internal static string Amber {
@@ -174,6 +183,24 @@ namespace ValheimCharacterEditor.Strings {
         internal static string ArmorRagsLegs {
             get {
                 return ResourceManager.GetString("ArmorRagsLegs", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Root harnesk.
+        /// </summary>
+        internal static string ArmorRootChest {
+            get {
+                return ResourceManager.GetString("ArmorRootChest", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Root leggings.
+        /// </summary>
+        internal static string ArmorRootLegs {
+            get {
+                return ResourceManager.GetString("ArmorRootLegs", resourceCulture);
             }
         }
         
@@ -421,6 +448,15 @@ namespace ValheimCharacterEditor.Strings {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Crystal battleaxe.
+        /// </summary>
+        internal static string BattleaxeCrystal {
+            get {
+                return ResourceManager.GetString("BattleaxeCrystal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Long 1.
         /// </summary>
         internal static string Beard1 {
@@ -538,6 +574,15 @@ namespace ValheimCharacterEditor.Strings {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Birch seeds.
+        /// </summary>
+        internal static string BirchSeeds {
+            get {
+                return ResourceManager.GetString("BirchSeeds", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Black metal.
         /// </summary>
         internal static string BlackMetal {
@@ -552,6 +597,15 @@ namespace ValheimCharacterEditor.Strings {
         internal static string BlackMetalScrap {
             get {
                 return ResourceManager.GetString("BlackMetalScrap", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Black soup.
+        /// </summary>
+        internal static string BlackSoup {
+            get {
+                return ResourceManager.GetString("BlackSoup", resourceCulture);
             }
         }
         
@@ -606,6 +660,15 @@ namespace ValheimCharacterEditor.Strings {
         internal static string boar_base_attack {
             get {
                 return ResourceManager.GetString("boar_base_attack", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Boar Jerky.
+        /// </summary>
+        internal static string BoarJerky {
+            get {
+                return ResourceManager.GetString("BoarJerky", resourceCulture);
             }
         }
         
@@ -871,6 +934,15 @@ namespace ValheimCharacterEditor.Strings {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Cooked deer meat.
+        /// </summary>
+        internal static string CookedDeerMeat {
+            get {
+                return ResourceManager.GetString("CookedDeerMeat", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Cooked lox meat.
         /// </summary>
         internal static string CookedLoxMeat {
@@ -885,6 +957,15 @@ namespace ValheimCharacterEditor.Strings {
         internal static string CookedMeat {
             get {
                 return ResourceManager.GetString("CookedMeat", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Cooked wolf meat.
+        /// </summary>
+        internal static string CookedWolfMeat {
+            get {
+                return ResourceManager.GetString("CookedWolfMeat", resourceCulture);
             }
         }
         
@@ -957,6 +1038,24 @@ namespace ValheimCharacterEditor.Strings {
         internal static string DeerHide {
             get {
                 return ResourceManager.GetString("DeerHide", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Deer meat.
+        /// </summary>
+        internal static string DeerMeat {
+            get {
+                return ResourceManager.GetString("DeerMeat", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Deer stew.
+        /// </summary>
+        internal static string DeerStew {
+            get {
+                return ResourceManager.GetString("DeerStew", resourceCulture);
             }
         }
         
@@ -1128,6 +1227,15 @@ namespace ValheimCharacterEditor.Strings {
         internal static string Entrails {
             get {
                 return ResourceManager.GetString("Entrails", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Eyescream.
+        /// </summary>
+        internal static string Eyescream {
+            get {
+                return ResourceManager.GetString("Eyescream", resourceCulture);
             }
         }
         
@@ -1915,6 +2023,15 @@ namespace ValheimCharacterEditor.Strings {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Root Mask.
+        /// </summary>
+        internal static string HelmetRoot {
+            get {
+                return ResourceManager.GetString("HelmetRoot", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Troll leather helmet.
         /// </summary>
         internal static string HelmetTrollLeather {
@@ -2005,6 +2122,15 @@ namespace ValheimCharacterEditor.Strings {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Butcher knife.
+        /// </summary>
+        internal static string KnifeButcher {
+            get {
+                return ResourceManager.GetString("KnifeButcher", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Abyssal razor.
         /// </summary>
         internal static string KnifeChitin {
@@ -2028,6 +2154,15 @@ namespace ValheimCharacterEditor.Strings {
         internal static string KnifeFlint {
             get {
                 return ResourceManager.GetString("KnifeFlint", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Silver knife.
+        /// </summary>
+        internal static string KnifeSilver {
+            get {
+                return ResourceManager.GetString("KnifeSilver", resourceCulture);
             }
         }
         
@@ -2100,6 +2235,15 @@ namespace ValheimCharacterEditor.Strings {
         internal static string LoxPie {
             get {
                 return ResourceManager.GetString("LoxPie", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Lox saddle.
+        /// </summary>
+        internal static string LoxSaddle {
+            get {
+                return ResourceManager.GetString("LoxSaddle", resourceCulture);
             }
         }
         
@@ -2266,6 +2410,15 @@ namespace ValheimCharacterEditor.Strings {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Mince meat sauce.
+        /// </summary>
+        internal static string MinceMeatSauce {
+            get {
+                return ResourceManager.GetString("MinceMeatSauce", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Mushroom.
         /// </summary>
         internal static string Mushroom {
@@ -2338,6 +2491,33 @@ namespace ValheimCharacterEditor.Strings {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Onion.
+        /// </summary>
+        internal static string Onion {
+            get {
+                return ResourceManager.GetString("Onion", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Onion seeds.
+        /// </summary>
+        internal static string OnionSeeds {
+            get {
+                return ResourceManager.GetString("OnionSeeds", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Onion soup.
+        /// </summary>
+        internal static string OnionSoup {
+            get {
+                return ResourceManager.GetString("OnionSoup", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Ooze.
         /// </summary>
         internal static string Ooze {
@@ -2401,6 +2581,15 @@ namespace ValheimCharacterEditor.Strings {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Bukeberries.
+        /// </summary>
+        internal static string Pukeberries {
+            get {
+                return ResourceManager.GetString("Pukeberries", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Queen bee.
         /// </summary>
         internal static string QueenBee {
@@ -2442,6 +2631,15 @@ namespace ValheimCharacterEditor.Strings {
         internal static string Resin {
             get {
                 return ResourceManager.GetString("Resin", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Root.
+        /// </summary>
+        internal static string Root {
+            get {
+                return ResourceManager.GetString("Root", resourceCulture);
             }
         }
         
@@ -2631,6 +2829,15 @@ namespace ValheimCharacterEditor.Strings {
         internal static string ShieldWoodTower {
             get {
                 return ResourceManager.GetString("ShieldWoodTower", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Muckshake.
+        /// </summary>
+        internal static string ShocklateSmoothie {
+            get {
+                return ResourceManager.GetString("ShocklateSmoothie", resourceCulture);
             }
         }
         
@@ -2950,6 +3157,15 @@ namespace ValheimCharacterEditor.Strings {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Tar.
+        /// </summary>
+        internal static string Tar {
+            get {
+                return ResourceManager.GetString("Tar", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to tentaroot_attack.
         /// </summary>
         internal static string tentaroot_attack {
@@ -2964,6 +3180,15 @@ namespace ValheimCharacterEditor.Strings {
         internal static string Thistle {
             get {
                 return ResourceManager.GetString("Thistle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Thunderstone.
+        /// </summary>
+        internal static string Thunderstone {
+            get {
+                return ResourceManager.GetString("Thunderstone", resourceCulture);
             }
         }
         
@@ -3045,6 +3270,15 @@ namespace ValheimCharacterEditor.Strings {
         internal static string TrollHide {
             get {
                 return ResourceManager.GetString("TrollHide", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Abomination trophy.
+        /// </summary>
+        internal static string TrophyAbomination {
+            get {
+                return ResourceManager.GetString("TrophyAbomination", resourceCulture);
             }
         }
         
@@ -3225,6 +3459,15 @@ namespace ValheimCharacterEditor.Strings {
         internal static string TrophyGreydwarfShaman {
             get {
                 return ResourceManager.GetString("TrophyGreydwarfShaman", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Growth trophy.
+        /// </summary>
+        internal static string TrophyGrowth {
+            get {
+                return ResourceManager.GetString("TrophyGrowth", resourceCulture);
             }
         }
         
@@ -3423,6 +3666,33 @@ namespace ValheimCharacterEditor.Strings {
         internal static string WolfFang {
             get {
                 return ResourceManager.GetString("WolfFang", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wolf jerky.
+        /// </summary>
+        internal static string WolfJerky {
+            get {
+                return ResourceManager.GetString("WolfJerky", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wolf meat.
+        /// </summary>
+        internal static string WolfMeat {
+            get {
+                return ResourceManager.GetString("WolfMeat", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wolf meat skewer.
+        /// </summary>
+        internal static string WolfMeatSkewer {
+            get {
+                return ResourceManager.GetString("WolfMeatSkewer", resourceCulture);
             }
         }
         
