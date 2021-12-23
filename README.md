@@ -1,6 +1,6 @@
 # Valheim Character Editor
 
-**This project is discontinued, if you want to get it updated and working for the current Valheim version you are a free to make a fork and continue it. I am sorry for the inconveniences.**
+**This project is discontinued from original maintainer(byt3m). Updates will be provided here**
 
 This repository is licensed under the GNU General Public License v3.0.
 
