@@ -117,6 +117,9 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Acorn" xml:space="preserve">
+    <value>Acorn</value>
+  </data>
   <data name="Amber" xml:space="preserve">
     <value>Amber</value>
   </data>
@@ -155,6 +158,12 @@
   </data>
   <data name="ArmorRagsLegs" xml:space="preserve">
     <value>Rag pants</value>
+  </data>
+  <data name="ArmorRootChest" xml:space="preserve">
+    <value>Root harnesk</value>
+  </data>
+  <data name="ArmorRootLegs" xml:space="preserve">
+    <value>Root leggings</value>
   </data>
   <data name="ArmorTrollLeatherChest" xml:space="preserve">
     <value>Troll leather tunic</value>
@@ -237,6 +246,9 @@
   <data name="Battleaxe" xml:space="preserve">
     <value>Battleaxe</value>
   </data>
+  <data name="BattleaxeCrystal" xml:space="preserve">
+    <value>Crystal battleaxe</value>
+  </data>
   <data name="Beard1" xml:space="preserve">
     <value>Long 1</value>
   </data>
@@ -276,11 +288,17 @@
   <data name="BeltStrength" xml:space="preserve">
     <value>Megingjord</value>
   </data>
+  <data name="BirchSeeds" xml:space="preserve">
+    <value>Birch seeds</value>
+  </data>
   <data name="BlackMetal" xml:space="preserve">
     <value>Black metal</value>
   </data>
   <data name="BlackMetalScrap" xml:space="preserve">
     <value>Black metal scrap</value>
+  </data>
+  <data name="BlackSoup" xml:space="preserve">
+    <value>Black soup</value>
   </data>
   <data name="blobelite_attack_aoe" xml:space="preserve">
     <value>blobelite_attack_aoe</value>
@@ -296,6 +314,9 @@
   </data>
   <data name="Blueberries" xml:space="preserve">
     <value>Blueberries</value>
+  </data>
+  <data name="BoarJerky" xml:space="preserve">
+    <value>Boar Jerky</value>
   </data>
   <data name="boar_base_attack" xml:space="preserve">
     <value>boar_base_attack</value>
@@ -387,11 +408,17 @@
   <data name="Coins" xml:space="preserve">
     <value>Coins</value>
   </data>
+  <data name="CookedDeerMeat" xml:space="preserve">
+    <value>Cooked deer meat</value>
+  </data>
   <data name="CookedLoxMeat" xml:space="preserve">
     <value>Cooked lox meat</value>
   </data>
   <data name="CookedMeat" xml:space="preserve">
     <value>Cooked meat</value>
+  </data>
+  <data name="CookedWolfMeat" xml:space="preserve">
+    <value>Cooked wolf meat</value>
   </data>
   <data name="Copper" xml:space="preserve">
     <value>Copper</value>
@@ -416,6 +443,12 @@
   </data>
   <data name="DeerHide" xml:space="preserve">
     <value>Deer hide</value>
+  </data>
+  <data name="DeerMeat" xml:space="preserve">
+    <value>Deer meat</value>
+  </data>
+  <data name="DeerStew" xml:space="preserve">
+    <value>Deer stew</value>
   </data>
   <data name="DragonEgg" xml:space="preserve">
     <value>Dragon egg</value>
@@ -473,6 +506,9 @@
   </data>
   <data name="Entrails" xml:space="preserve">
     <value>Entrails</value>
+  </data>
+  <data name="Eyescream" xml:space="preserve">
+    <value>Eyescream</value>
   </data>
   <data name="Feathers" xml:space="preserve">
     <value>Feathers</value>
@@ -735,6 +771,9 @@
   <data name="HelmetPadded" xml:space="preserve">
     <value>Padded helmet</value>
   </data>
+  <data name="HelmetRoot" xml:space="preserve">
+    <value>Root Mask</value>
+  </data>
   <data name="HelmetTrollLeather" xml:space="preserve">
     <value>Troll leather helmet</value>
   </data>
@@ -765,6 +804,9 @@
   <data name="KnifeBlackMetal" xml:space="preserve">
     <value>Blackmetal knife</value>
   </data>
+  <data name="KnifeButcher" xml:space="preserve">
+    <value>Butcher knife</value>
+  </data>
   <data name="KnifeChitin" xml:space="preserve">
     <value>Abyssal razor</value>
   </data>
@@ -773,6 +815,9 @@
   </data>
   <data name="KnifeFlint" xml:space="preserve">
     <value>Flint knife</value>
+  </data>
+  <data name="KnifeSilver" xml:space="preserve">
+    <value>Silver knife</value>
   </data>
   <data name="LeatherScraps" xml:space="preserve">
     <value>Leather scraps</value>
@@ -791,6 +836,9 @@
   </data>
   <data name="LoxPie" xml:space="preserve">
     <value>Lox meat pie</value>
+  </data>
+  <data name="LoxSaddle" xml:space="preserve">
+    <value>Lox saddle</value>
   </data>
   <data name="lox_bite" xml:space="preserve">
     <value>lox_bite</value>
@@ -852,6 +900,9 @@
   <data name="MeadTasty" xml:space="preserve">
     <value>Tasty mead</value>
   </data>
+  <data name="MinceMeatSauce" xml:space="preserve">
+    <value>Mince meat sauce</value>
+  </data>
   <data name="Mushroom" xml:space="preserve">
     <value>Mushroom</value>
   </data>
@@ -876,6 +927,15 @@
   <data name="Obsidian" xml:space="preserve">
     <value>Obsidian</value>
   </data>
+  <data name="Onion" xml:space="preserve">
+    <value>Onion</value>
+  </data>
+  <data name="OnionSeeds" xml:space="preserve">
+    <value>Onion seeds</value>
+  </data>
+  <data name="OnionSoup" xml:space="preserve">
+    <value>Onion soup</value>
+  </data>
   <data name="Ooze" xml:space="preserve">
     <value>Ooze</value>
   </data>
@@ -897,6 +957,9 @@
   <data name="PlayerUnarmed" xml:space="preserve">
     <value>Unarmed</value>
   </data>
+  <data name="Pukeberries" xml:space="preserve">
+    <value>Bukeberries</value>
+  </data>
   <data name="QueenBee" xml:space="preserve">
     <value>Queen bee</value>
   </data>
@@ -911,6 +974,9 @@
   </data>
   <data name="Resin" xml:space="preserve">
     <value>Resin</value>
+  </data>
+  <data name="Root" xml:space="preserve">
+    <value>Root</value>
   </data>
   <data name="RoundLog" xml:space="preserve">
     <value>Core wood</value>
@@ -974,6 +1040,9 @@
   </data>
   <data name="ShieldWoodTower" xml:space="preserve">
     <value>Wood tower shield</value>
+  </data>
+  <data name="ShocklateSmoothie" xml:space="preserve">
+    <value>Muckshake</value>
   </data>
   <data name="Silver" xml:space="preserve">
     <value>Silver</value>
@@ -1080,11 +1149,17 @@
   <data name="TankardOdin" xml:space="preserve">
     <value>Mead horn of Odin</value>
   </data>
+  <data name="Tar" xml:space="preserve">
+    <value>Tar</value>
+  </data>
   <data name="tentaroot_attack" xml:space="preserve">
     <value>tentaroot_attack</value>
   </data>
   <data name="Thistle" xml:space="preserve">
     <value>Thistle</value>
+  </data>
+  <data name="Thunderstone" xml:space="preserve">
+    <value>Thunderstone</value>
   </data>
   <data name="Tin" xml:space="preserve">
     <value>Tin</value>
@@ -1112,6 +1187,9 @@
   </data>
   <data name="troll_throw" xml:space="preserve">
     <value>troll_throw</value>
+  </data>
+  <data name="TrophyAbomination" xml:space="preserve">
+    <value>Abomination trophy</value>
   </data>
   <data name="TrophyBlob" xml:space="preserve">
     <value>Blob trophy</value>
@@ -1173,6 +1251,9 @@
   <data name="TrophyGreydwarfShaman" xml:space="preserve">
     <value>Greydwarf Shaman trophy</value>
   </data>
+  <data name="TrophyGrowth" xml:space="preserve">
+    <value>Growth trophy</value>
+  </data>
   <data name="TrophyHatchling" xml:space="preserve">
     <value>Drake trophy</value>
   </data>
@@ -1229,6 +1310,15 @@
   </data>
   <data name="WolfFang" xml:space="preserve">
     <value>Wolf fang</value>
+  </data>
+  <data name="WolfJerky" xml:space="preserve">
+    <value>Wolf jerky</value>
+  </data>
+  <data name="WolfMeat" xml:space="preserve">
+    <value>Wolf meat</value>
+  </data>
+  <data name="WolfMeatSkewer" xml:space="preserve">
+    <value>Wolf meat skewer</value>
   </data>
   <data name="WolfPelt" xml:space="preserve">
     <value>Wolf pelt</value>

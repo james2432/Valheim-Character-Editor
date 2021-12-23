@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 using System.Linq;
+using System.Collections.Generic;
 
 namespace ValheimCharacterEditor
 {

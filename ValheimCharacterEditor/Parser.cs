@@ -156,12 +156,24 @@ namespace ValheimCharacterEditor
             character.Foods = new List<ValheimEngine.Character.Food>();
             for (var i = 0; i < numberOfConsumedFood; i++)
             {
-                var food = new ValheimEngine.Character.Food
+                ValheimEngine.Character.Food food;
+                if (character.InventoryVersion < 25) //Pre-Heart and home
                 {
-                    Name = byteAccess.ReadString(),
-                    HpLeft = byteAccess.ReadSingle(),
-                    StaminaLeft = byteAccess.ReadSingle()
-                };
+                    food = new ValheimEngine.Character.Food
+                    {
+                        Name = byteAccess.ReadString(),
+                        HpLeft = byteAccess.ReadSingle(),
+                        StaminaLeft = byteAccess.ReadSingle()
+                    };
+                }
+                else //heart and home release
+                {
+                    food = new ValheimEngine.Character.Food
+                    {
+                        Name = byteAccess.ReadString(),
+                        TimeEaten = byteAccess.ReadSingle()
+                    };
+                }
                 character.Foods.Add(food);
             }
 
@@ -287,9 +299,17 @@ namespace ValheimCharacterEditor
                 byteAccess2.Write(character.Foods.Count);
                 foreach (var food in character.Foods)
                 {
-                    byteAccess2.Write(food.Name);
-                    byteAccess2.Write(food.HpLeft);
-                    byteAccess2.Write(food.StaminaLeft);
+                    if (character.InventoryVersion < 25)//pre-heart and home
+                    {
+                        byteAccess2.Write(food.Name);
+                        byteAccess2.Write(food.HpLeft);
+                        byteAccess2.Write(food.StaminaLeft);
+                    }
+                    else //Heart and home
+                    {
+                        byteAccess2.Write(food.Name);
+                        byteAccess2.Write(food.TimeEaten);
+                    }
                 }
 
                 byteAccess2.Write(character.SkillsVersion);
